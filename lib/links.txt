@@ -1,0 +1,10 @@
+
+
+class Links {
+
+  'https://www.instagram.com/static/images/web/mobile_nav_type_logo-2x.png/1b47f9d0e595.png',
+  'https://i.ibb.co/P5BHnq6/a1471336261-10.jpg'
+  'https://i.ibb.co/dWNpcmB/invincible-1615986175.jpg',
+  
+  
+}

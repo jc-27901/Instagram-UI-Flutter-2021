@@ -347,10 +347,10 @@ class _HomePageInstagramState extends State<HomePageInstagram> {
                   child: Container(
                       width: MediaQuery.of(context).size.width,
                       height: 300,
-                      color: Colors.grey,
+                      // color: Colors.grey,
                       child: Image(
                           image: NetworkImage(
-                              'https://i.ibb.co/P5BHnq6/a1471336261-10.jpg'))),
+                              'https://i.ibb.co/q7JXX9Q/d70fc4bd44954b993c58317d28f92ac5.png'))),
                 ),
                 SizedBox(
                   height: 14.0,
